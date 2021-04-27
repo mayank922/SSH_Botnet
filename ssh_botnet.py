@@ -1,6 +1,4 @@
-"""
-Script to bruteforce the ssh credentials
-"""
+
 
 import argparse
 from pexpect import pxssh
